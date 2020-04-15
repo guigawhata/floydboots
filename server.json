@@ -28,39 +28,39 @@
   "products": [
     {
       "id": 1,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "title": "Bota Militar Acero Couro Tiger Verde Musgo",
+      "price": 170.0,
+      "image": "https://cd.shoppub.com.br/acero/media/cache/9f/ac/9facc0fd04a3d3b4afce78225ec55236.jpg"
     },
     {
       "id": 2,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Bota Acero Militar Tiger Pró Marrom Coyote",
+      "price": 212.5,
+      "image": "https://cd.shoppub.com.br/acero/media/cache/94/ce/94cef217ae000600a032861b1aca0cb7.jpg"
     },
     {
       "id": 3,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "title": "Bota Militar Acero Couro Hummer Desert",
+      "price": 189.99,
+      "image": "https://cd.shoppub.com.br/acero/media/cache/8e/66/8e6624c5ab050f8626746b52bc56d9ae.jpg"
     },
     {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Bota Militar Acero Couro Tiger Marrom",
+      "price": 170.0,
+      "image": "https://cd.shoppub.com.br/acero/media/cache/cf/35/cf35205c7c3f073756466bd0e561a301.jpg"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "title": "Bota Militar Acero Couro Pró Tática Desert",
+      "price": 162.92,
+      "image": "https://cd.shoppub.com.br/acero/media/cache/94/16/9416a34a3a43e6136ceb01d96a2a05a9.jpg"
     },
     {
       "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "title": "Bota Militar Acero Couro Nobuck Tiger Pró Preto",
+      "price": 212.5,
+      "image": "https://cd.shoppub.com.br/acero/media/cache/85/2d/852dcc41eba62bc0c732e805b299160a.jpg"
     }
   ]
 }

@@ -1,9 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
 
 export default createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@400;500;600&display=swap');
 
-  {
+  * {
     margin: 0;
     padding: 0;
     outline: 0;
@@ -17,7 +16,7 @@ export default createGlobalStyle`
 
   body, input, button {
     font-size: 14px;
-    font-family: 'Baloo Paaji 2', cursive;
+    font-family: 'Roboto', sans-serif;
   }
 
   #root {
