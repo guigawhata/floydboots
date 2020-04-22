@@ -36,25 +36,28 @@ class Home extends Component {
     const { amount } = this.props;
 
     return (
-      <ProductList>
-        {products.map((product) => (
-          <li key={product.id}>
-            <img src={product.image} alt={product.title} />
-            <strong>{product.title}</strong>
-            <span>{product.priceFormatted}</span>
-            <button
-              type="button"
-              onClick={() => this.handleAddProduct(product.id)}
-            >
-              <div>
-                <MdAddShoppingCart size={16} color="#fff" />{' '}
-                {amount[product.id] || 0}
-              </div>
-              <span>Adicionar ao carrinho</span>
-            </button>
-          </li>
-        ))}
-      </ProductList>
+      <>
+        <title>Teste</title>
+        <ProductList>
+          {products.map((product) => (
+            <li key={product.id}>
+              <img src={product.image} alt={product.title} />
+              <strong>{product.title}</strong>
+              <span>{product.priceFormatted}</span>
+              <button
+                type="button"
+                onClick={() => this.handleAddProduct(product.id)}
+              >
+                <div>
+                  <MdAddShoppingCart size={16} color="#fff" />{' '}
+                  {amount[product.id] || 0}
+                </div>
+                <span>Adicionar ao carrinho</span>
+              </button>
+            </li>
+          ))}
+        </ProductList>
+      </>
     );
   }
 }

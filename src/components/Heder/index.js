@@ -12,7 +12,7 @@ function Header({ cartSize }) {
   return (
     <Container>
       <Link to="/">
-        <img src={logo} alt="FloydShoes" />
+        <img src={logo} alt="FloydBoots" />
       </Link>
 
       <Cart to="/cart">
