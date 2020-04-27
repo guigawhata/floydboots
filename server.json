@@ -23,44 +23,182 @@
     {
       "id": 6,
       "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 3
+    },
+    {
+      "id": 8,
+      "amount": 5
+    },
+    {
+      "id": 9,
+      "amount": 2
+    },
+    {
+      "id": 10,
+      "amount": 1
+    },
+    {
+      "id": 11,
+      "amount": 5
+    },
+    {
+      "id": 12,
+      "amount": 10
+    },
+    {
+      "id": 13,
+      "amount": 3
+    },
+    {
+      "id": 14,
+      "amount": 5
+    },
+    {
+      "id": 15,
+      "amount": 2
+    },
+    {
+      "id": 16,
+      "amount": 1
+    },
+    {
+      "id": 17,
+      "amount": 5
+    },
+    {
+      "id": 18,
+      "amount": 10
     }
   ],
   "products": [
     {
       "id": 1,
-      "title": "Bota Militar Acero Couro Tiger Verde Musgo",
-      "price": 170.0,
-      "image": "https://cd.shoppub.com.br/acero/media/cache/9f/ac/9facc0fd04a3d3b4afce78225ec55236.jpg"
+      "title": "Arroz Branco Tio João T1 5Kg",
+      "price": 17.65,
+      "image": "https://img.sitemercado.com.br/produtos/a701e2c6b1fc4f9cbd209fc960ce161cc7b2a59cd7325b6277158edb23e70536_full.jpg",
+      "category": "Food"
     },
     {
       "id": 2,
-      "title": "Bota Acero Militar Tiger Pró Marrom Coyote",
-      "price": 212.5,
-      "image": "https://cd.shoppub.com.br/acero/media/cache/94/ce/94cef217ae000600a032861b1aca0cb7.jpg"
+      "title": "Feijao Carioca Nobre Vasconcelos Pacote 1Kg",
+      "price": 8.98,
+      "image": "https://img.sitemercado.com.br/produtos/7afb1cffcf3b33b610396639d473d56c30fea0a57190fc78a8162a0cc6e25a16_full.jpg",
+      "category": "Food"
     },
     {
       "id": 3,
-      "title": "Bota Militar Acero Couro Hummer Desert",
-      "price": 189.99,
-      "image": "https://cd.shoppub.com.br/acero/media/cache/8e/66/8e6624c5ab050f8626746b52bc56d9ae.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Bota Militar Acero Couro Tiger Marrom",
-      "price": 170.0,
-      "image": "https://cd.shoppub.com.br/acero/media/cache/cf/35/cf35205c7c3f073756466bd0e561a301.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Bota Militar Acero Couro Pró Tática Desert",
-      "price": 162.92,
-      "image": "https://cd.shoppub.com.br/acero/media/cache/94/16/9416a34a3a43e6136ceb01d96a2a05a9.jpg"
+      "title": "Oleo Soja Liza Embalagem 900Ml",
+      "price": 3.99,
+      "image": "https://img.sitemercado.com.br/produtos/b5bacbac82fa79cfa5d84482bf766327459d9fe2e7822a68d7ce63b33c168e17_full.jpg",
+      "category": "Food"
     },
     {
       "id": 4,
-      "title": "Bota Militar Acero Couro Nobuck Tiger Pró Preto",
-      "price": 212.5,
-      "image": "https://cd.shoppub.com.br/acero/media/cache/85/2d/852dcc41eba62bc0c732e805b299160a.jpg"
+      "title": "Atum Ralado Gomes da Costa em Óleo Lata 170G",
+      "price": 5.99,
+      "image": "https://img.sitemercado.com.br/produtos/8eac237f1018871e771b91ad1c1467d0bd688536d8bcc85b0ec673f72dba1474_full.jpg",
+      "category": "Food"
+    },
+    {
+      "id": 5,
+      "title": "Caldo Smart Galinha 57G",
+      "price": 1.19,
+      "image": "https://img.sitemercado.com.br/produtos/81b0a9f38615f44892e7af142775d6790685572504ca1496160e064ad3f2272c_full.jpg",
+      "category": "Food"
+    },
+    {
+      "id": 6,
+      "title": "Macarrão Instantâneo Carne Smart 85G",
+      "price": 1.19,
+      "image": "https://img.sitemercado.com.br/produtos/59690e41168f78aad98871e2e135eb53505b237299c5ee36a690be332cb8c074_full.jpg",
+      "category": "Food"
+    },
+    {
+      "id": 7,
+      "title": "Limpador Multiuso Veja Original Oferta 500Ml",
+      "price": 3.78,
+      "image": "https://img.sitemercado.com.br/produtos/f0fa09d143325ec6729d0187f03136f3e0017cefa2c549336266af5842fba05f_hero_full.jpg",
+      "category": "clean"
+    },
+    {
+      "id": 8,
+      "title": "Tira Manchas em Pó Vanish Pink Refil 400G",
+      "price": 15.19,
+      "image": "https://img.sitemercado.com.br/produtos/1d26142276b477017114ec08622cd08a4c70b933924e17394dbdb2ad7963c6f1_hero_full.jpg",
+      "category": "clean"
+    },
+    {
+      "id": 9,
+      "title": "Amaciante Mon Bijou Magia 2 Litros",
+      "price": 6.98,
+      "image": "https://img.sitemercado.com.br/produtos/b58071d18d895f0b31c721accec0b920600a9634fe6e16b3230258a00c08c039_full.jpg",
+      "category": "clean"
+    },
+    {
+      "id": 10,
+      "title": "Lava Roupas em Pó Omo Protecão Micelar sem Perfume 800G",
+      "price": 9.99,
+      "image": "https://img.sitemercado.com.br/produtos/fafc461effc6b4ac0216f25416a886696def7f62a2635a89e0d3039fb75cd563_full.jpg",
+      "category": "clean"
+    },
+    {
+      "id": 11,
+      "title": "Sabão Barra Estrela Glicerinado 5Un",
+      "price": 5.89,
+      "image": "https://img.sitemercado.com.br/produtos/502ce690c4628743687c654c97773918206292305b59bf7c3d0b815b7ad58596_full.jpg",
+      "category": "clean"
+    },
+    {
+      "id": 12,
+      "title": "Limpador Destac Uso Direto Porcelanato e Cerâmica Embalagem 750Ml",
+      "price": 10.44,
+      "image": "https://img.sitemercado.com.br/produtos/b61834d5f3127f730b08e818c9cfcf9f47747b02359c2877ae5661f4e7839b13_full.jpg",
+      "category": "clean"
+    },
+    {
+      "id": 13,
+      "title": "Isotônico Gatorade Morango Maracujá 500Ml",
+      "price": 3.29,
+      "image": "https://img.sitemercado.com.br/produtos/594b5a964cc2038ef6b2f63107af8fa4467d21d667c6758be304a0b8d6a5fd23_hero_full.jpg",
+      "category": "drinks"
+    },
+    {
+      "id": 14,
+      "title": "Energético Monster Khaos Lata 473Ml",
+      "price": 6.99,
+      "image": "https://img.sitemercado.com.br/produtos/d240d28ad1bb52df078bd57769e1eafec68be039ab4acd6d69ceb168247fea22_hero_full.jpg",
+      "category": "drinks"
+    },
+    {
+      "id": 15,
+      "title": "Refresco em Pó Tang Tangerina Sachê 25G",
+      "price": 0.99,
+      "image": "https://img.sitemercado.com.br/produtos/282fb97c4c17f0d46118a9426d0953872cdb714452374cb6793ebebd04504b48_hero_full.jpg",
+      "category": "drinks"
+    },
+    {
+      "id": 16,
+      "title": "Suco Pronto Garibaldi Uva Integral Garrafa 300Ml",
+      "price": 4.99,
+      "image": "https://img.sitemercado.com.br/produtos/4031173efabbafaba05d2a367909d57a604eafd619403bd0500c7e92ba3c8ca8_full.jpg",
+      "category": "drinks"
+    },
+    {
+      "id": 17,
+      "title": "Néctar Maguary Abacaxi 1L",
+      "price": 3.99,
+      "image": "https://img.sitemercado.com.br/produtos/c14bc6e66d62e3711cef28a5729d9254e43058fd8347dae961ef6892159f3c4e_full.jpg",
+      "category": "drinks"
+    },
+    {
+      "id": 18,
+      "title": "Refrigerante Coca-Cola Original 2Ll",
+      "price": 6.19,
+      "image": "https://img.sitemercado.com.br/produtos/b6b70bb65e38f85071e7bdaba24bcd2d49782a938da5ce0f8c7a56a93c783a60_hero_full.jpg",
+      "category": "drinks"
     }
   ]
 }

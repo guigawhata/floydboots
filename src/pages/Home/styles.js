@@ -1,6 +1,43 @@
 import styled from 'styled-components';
 import { darken } from 'polished';
 
+export const Container = styled.div`
+  display: flex;
+  flex-direction: row;
+`;
+
+export const Aside = styled.aside`
+  width: 30%;
+
+  ul {
+    list-style: none;
+
+    li {
+      margin-bottom: 15px;
+
+      button {
+        width: 100px;
+        background: #198000;
+        color: #fff;
+        border: 0;
+        border-radius: 4px;
+        overflow: hidden;
+        margin-top: auto;
+        padding: 10px;
+        transition: background 0.2s;
+
+        &:hover {
+          background: ${darken(0.03, '#198000')};
+        }
+      }
+    }
+  }
+`;
+
+export const ProductsContainer = styled.div`
+  flex: 1;
+`;
+
 export const ProductList = styled.ul`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
